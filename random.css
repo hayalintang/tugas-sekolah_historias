@@ -1,0 +1,21 @@
+/* MAIN CONTENT */
+.main-konten {
+    margin-top: 50px;
+    display: flex;
+    background-color: #29273e;
+    /* height: 800px; */
+    height: 1263px;
+    width: 1512px;
+    position: relative;
+    z-index: 9;
+    border-radius: 50px;
+    justify-content: center;
+    /* overflow: hidden; */
+  }
+  
+  .main-konten .judul p {
+    position: relative;
+    z-index: 9;
+    color: white;
+  }
+  /* END MAIN CONTENT */
